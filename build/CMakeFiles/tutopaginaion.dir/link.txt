@@ -1,0 +1,3 @@
+"C:\Program Files\GNU Octave\Octave-8.3.0\mingw64\bin\cmake.exe" -E rm -f CMakeFiles\tutopaginaion.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\tutopaginaion.dir/objects.a @CMakeFiles\tutopaginaion.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\tutopaginaion.dir/objects.a -Wl,--no-whole-archive -o tutopaginaion.exe -Wl,--out-implib,libtutopaginaion.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tutopaginaion.dir\linklibs.rsp

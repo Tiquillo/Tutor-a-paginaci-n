@@ -1,0 +1,3 @@
+C:/Users/lujim/CLionProjects/tutopaginaion/build/CMakeFiles/tutopaginaion.dir
+C:/Users/lujim/CLionProjects/tutopaginaion/build/CMakeFiles/edit_cache.dir
+C:/Users/lujim/CLionProjects/tutopaginaion/build/CMakeFiles/rebuild_cache.dir
